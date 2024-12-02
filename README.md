@@ -1,4 +1,4 @@
-# **LSTM4CasADi**
+# **lstm4casadi**
 A custom LSTM implementation designed for use with CasADi. While the [l4casadi library](https://github.com/Tim-Salzmann/l4casadi) may be preferable for general purposes, this repository provides an alternative, which makes LSTM's accessible in CasADi.
 
 ---
